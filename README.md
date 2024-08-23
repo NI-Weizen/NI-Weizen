@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weizen-w&label=Profile%20views&color=0e75b6&style=flat" alt="weizen-w" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizen-w" alt="weizen-w" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NI-Weizen" alt="weizen-w" /></a> </p>
 
 - 🌱 I’m currently learning **New frameworks and technologies**
 
